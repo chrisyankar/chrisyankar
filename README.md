@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I am Christian Zamora
+## A web developer
+
+
 
 <!--
 **chrisyankar/chrisyankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
